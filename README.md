@@ -1,5 +1,5 @@
 # Hangman
-Java hangman game
+## Java hangman game
 In this homework, you will create an application for playing a modified and simple version of 
 "AdamAsmaca" with numbers. The idea is just to guess numbers, not the correct places. In this 
 application, your game should keep information about Player. In addition it should include 
@@ -8,7 +8,12 @@ a driver class named PlayGame.
 wins (numWin), the number of times game played (playCount) and the maximum 
 level (maxLevel) she has reached.
  PlayGame should include a method called adamAsmaca() and generateReport()
+
+
+---
 Your application should satisfy the requirements given below:
+
+
 1. Your program should start by displaying a menu as given below:
 Enter your choice:
 1. Start Game
